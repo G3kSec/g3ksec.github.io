@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   Blog WriteUps, Hacking Ético, Programación.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://g3ksec.github.io'
+url: 'https://g3ksec.github.io/'
 
 github:
   username: G3kSec             # change to your github username
