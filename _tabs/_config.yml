@@ -5,12 +5,12 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: '/g3ksec.github.io'
+baseurl: ""
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: es
+lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: America/Argentina/Buenos_Aires
@@ -20,24 +20,24 @@ timezone: America/Argentina/Buenos_Aires
 
 title: G3kSec # the main title
 
-tagline: Full Stack Developer | Pentester | CTF Player # it will display as the sub-title
+tagline: A text-focused Jekyll theme # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Bienvenido a mi blog de tecnología. Aquí encontrarás contenido relacionado con writeups de HTB, hacking, programación, hardware y mucho más.
+  A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://G3kSec.github.io"
 
 github:
   username: G3kSec # change to your github username
 
 twitter:
   username: G3kSec # change to your twitter username
-
+Luciano Griffa
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: G3kSec
+  name: Luciano Griffa
   email: lucianogriffa@protonmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -70,7 +70,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark # [light|dark]
+theme_mode: # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
