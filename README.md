@@ -1,4 +1,1 @@
-My personal CyberSecurity Blog
-
-- WriteUps
-- News
+My Blog
