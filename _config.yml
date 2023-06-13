@@ -21,7 +21,7 @@ timezone: America/Argentina/Buenos_Aires
 
 title: G3kSec                          # the main title
 
-tagline: Blog Technology.  # it will display as the sub-title
+tagline: Technology Blog.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   WriteUps Blog, Ethical Hacking, Programming.
