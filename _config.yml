@@ -21,10 +21,10 @@ timezone: America/Argentina/Buenos_Aires
 
 title: G3kSec                          # the main title
 
-tagline: Blog Tecnología.  # it will display as the sub-title
+tagline: Blog Technology.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Blog WriteUps, Hacking Ético, Programación.
+  WriteUps Blog, Ethical Hacking, Programming.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://g3ksec.github.io/'
@@ -35,18 +35,23 @@ github:
 twitter:
   username: G3kSec         # change to your twitter username
 
+youtube:
+  username: G3kSec         # change to your twitter username
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: G3kSec
-  email:             # change to your email address
+  email:       # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/G3kSec    # change to your twitter homepage
     - https://github.com/G3kSec      # change to your github homepage
+    - https://youtube.com/@G3kSec
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    # - https://www.linkedin.com/in/username   
+    - https://youtube.com/@G3kSec
 
 google_site_verification:               # fill in to your verification string
 
