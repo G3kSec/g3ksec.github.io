@@ -9,7 +9,7 @@ order: 4
 
 ### I'm a Full Stack Developer transitioning into the exciting world of cybersecurity. Throughout my career, I've had the opportunity to work on various projects and gain experience in developing web and desktop applications, covering both the front-end and back-end.
 
-###However, my interest and curiosity in cybersecurity have been growing lately.
+### However, my interest and curiosity in cybersecurity have been growing lately.
 
 ### In my quest for knowledge in cybersecurity, I've turned to various learning sources. Platforms like Hack The Box (HTB) or TryHackMe provide me with the opportunity to take on ethical hacking challenges and enhance my technical skills in a practical and secure environment. Additionally, I've taken advantage of specialized cybersecurity courses to delve deeper into key concepts and techniques.
 
