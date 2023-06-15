@@ -21,10 +21,10 @@ timezone: America/Argentina/Buenos_Aires
 
 title: G3kSec                          # the main title
 
-tagline: Blog de Tecnología.  # it will display as the sub-title
+tagline: Technology Blog.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  WriteUps, Ethical Hacking, Programación.
+  WriteUps, Ethical Hacking, Programming.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://g3ksec.github.io/'
@@ -51,7 +51,7 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username   
-    - https://youtube.com/@G3kSec
+    # - https://youtube.com/@G3kSec
 
 google_site_verification:               # fill in to your verification string
 
