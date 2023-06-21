@@ -1,8 +1,8 @@
 ---
 title: IP Address
 date: 2023-06-14
-categories: [Conceptos Basicos]
-tags: [IP Address, Conceptos Basicos]
+categories: [Basic concepts]
+tags: [IP Address, Basic concepts]
 ---
 ![](/assets/img/IP/Ip.jpg)
 ## ¿What is an IP Address?
