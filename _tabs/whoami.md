@@ -4,16 +4,16 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## ¡Hola! 👋 Soy G3kSec.
+## ¡Hey! 👋 I'm G3kSec.
 
-Soy un desarrollador Full Stack en transición hacia el apasionante mundo de la ciberseguridad. En mi experiencia, he tenido la oportunidad de trabajar en varios proyectos y adquirir experiencia en el desarrollo de aplicaciones web y de escritorio, cubriendo tanto el frontend como el backend.
+I'm a Full Stack Developer transitioning into the exciting world of cybersecurity. Throughout my career, I've had the opportunity to work on various projects and gain experience in developing web and desktop applications, covering both the front-end and back-end.
 
-Sin embargo, mi interés y curiosidad por la ciberseguridad ha ido en aumento últimamente.
+However, my interest and curiosity in cybersecurity have been growing lately.
 
-En mi búsqueda de conocimientos sobre ciberseguridad, recurrí a varias fuentes de aprendizaje. Plataformas como Hack The Box (HTB) o TryHackMe me brindan la oportunidad de enfrentar desafíos de hacking ético y mejorar mis habilidades técnicas en un entorno práctico y seguro. Además, he aprovechado cursos especializados en ciberseguridad para profundizar en conceptos y técnicas clave.
+In my quest for knowledge in cybersecurity, I've turned to various learning sources. Platforms like Hack The Box (HTB) or TryHackMe provide me with the opportunity to take on ethical hacking challenges and enhance my technical skills in a practical and secure environment. Additionally, I've taken advantage of specialized cybersecurity courses to delve deeper into key concepts and techniques.
 
-No puedo dejar de mencionar la gran cantidad de recursos disponibles en YouTube y la extensa documentación en línea que utilizo para ampliar mi comprensión y mantenerme actualizado con las últimas tendencias y técnicas en ciberseguridad.
+I can't fail to mention the wealth of resources available on YouTube and the extensive online documentation that I use to broaden my understanding and stay up to date with the latest trends and techniques in cybersecurity.
 
-A través de mi blog, pretendo compartir mi experiencia, conocimiento y perspectivas sobre el desarrollo de Full Stack, así como todo lo que aprendo sobre ciberseguridad. Desde consejos y trucos prácticos hasta análisis en profundidad de técnicas y herramientas de seguridad, estaré encantado de proporcionar contenido valioso y relevante para aquellos que también estén interesados en este apasionante campo.
+Through my blog, I aim to share my experience, knowledge, and perspectives on Full Stack development, as well as everything I learn about cybersecurity. From practical tips and tricks to in-depth analysis of security techniques and tools, I'll be delighted to provide valuable and relevant content for those who are also interested in this exciting field.
 
-*Gracias por leer esto y estoy emocionado de compartir más con ustedes a través de mi blog.*
+*Thanks for reading this and I'm excited to share more with you through my blog.*
