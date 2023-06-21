@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## ¡Hey! 👋 I'm G3kSec.
+## ¡Hey! 👋 I'm G3kSec
 
 I'm a Full Stack Developer transitioning into the exciting world of cybersecurity. Throughout my career, I've had the opportunity to work on various projects and gain experience in developing web and desktop applications, covering both the front-end and back-end.
 
