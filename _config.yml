@@ -19,7 +19,7 @@ timezone: America/Argentina/Buenos_Aires
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: G3kSec                          # the main title
+title: G3kSec                       # the main title
 
 tagline: Technology Blog.  # it will display as the sub-title
 
