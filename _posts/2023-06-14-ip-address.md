@@ -46,7 +46,7 @@ There are two types of IP addresses:
 
 ## Versions
 
-Hay dos versiones principales de direcciones IP en uso actualmente:
+There are two main versions of IP addresses in use today::
 
 **IPv4 (Internet Protocol version 4)**: It is the most common IP addressing system. It is made up of a series of four sets of numbers separated by periods, such as `192.168.0.1`. However, due to the depletion of available IPv4 addresses, the transition to IPv6 has become increasingly important.
 
