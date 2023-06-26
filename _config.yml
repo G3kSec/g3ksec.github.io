@@ -14,29 +14,23 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: America/Argentina/Buenos_Aires
+timezone: America/Argentina
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: G3kSec                       # the main title
 
-tagline: Technology Blog.  # it will display as the sub-title
+tagline: Blog de Tecnología.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  WriteUps, Ethical Hacking, Programming.
+  WriteUps, Hacking Ético, Programación.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://g3ksec.github.io/'
 
 github:
   username: G3kSec             # change to your github username
-
-twitter:
-  username: G3kSec         # change to your twitter username
-
-youtube:
-  username: G3kSec         # change to your youtube username
 
 social:
   # Change to your full name.
@@ -47,7 +41,6 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/G3kSec    # change to your twitter homepage
     - https://github.com/G3kSec      # change to your github homepage
-    - https://youtube.com/@G3kSec
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username   
