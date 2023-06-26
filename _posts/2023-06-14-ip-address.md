@@ -1,8 +1,8 @@
 ---
 title: Dirección IP
 date: 2023-06-14
-categories: [Conceptos Básicos]
-tags: [Dirección IP, Conceptos Básicos]
+categories: [Networks]
+tags: [Dirección IP, Networks]
 ---
 ![](/assets/img/IP/Ip.jpg)
 ## ¿Qué es una dirección IP?
