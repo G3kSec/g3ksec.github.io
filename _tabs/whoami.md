@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## ¡Hola! 👋 Soy Luciano Griffa
+## ¡Hola! 👋 Soy Luciano Griffa (Aka. G3kSec)
 
 Soy un desarrollador Full Stack en transición hacia el apasionante mundo de la ciberseguridad. He tenido la oportunidad de trabajar en varios proyectos y adquirir experiencia en el desarrollo de aplicaciones web y de escritorio, cubriendo tanto el front-end como el back-end.
 
