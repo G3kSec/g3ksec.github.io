@@ -27,10 +27,10 @@ description: >-                        # used by seo meta and the atom feed
   WriteUps, Hacking Ético, Programación.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://lucianogriffa.github.io/'
+url: 'https://g3ksec.github.io/'
 
 github:
-  username: lucianogriffa              # change to your github username
+  username: G3kSec              # change to your github username
 
 social:
   # Change to your full name.
