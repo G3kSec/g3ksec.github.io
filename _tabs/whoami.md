@@ -4,15 +4,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## ¡Hola! 👋 Soy Luciano Griffa (Aka. G3kSec)
+## ¡Hola! 👋 Soy Luciano Griffa
 
-Soy un desarrollador Full Stack en transición hacia el apasionante mundo de la ciberseguridad. He tenido la oportunidad de trabajar en varios proyectos y adquirir experiencia en el desarrollo de aplicaciones web y de escritorio, cubriendo tanto el front-end como el back-end.
+Soy desarrollador Full Stack, durante la pandemia en 2020, aproveché la oportunidad para estudiar y formarme como Desarrollador Full Stack en Platzi. Además, obtuve certificaciones en Ciberseguridad, Internet de las Cosas y Cloud Computing, lo cual me ha permitido ampliar mis conocimientos.
 
-Sin embargo, mi interés y curiosidad por la ciberseguridad han ido creciendo últimamente.
+Actualmente, estoy estudiando una Licenciatura en Seguridad Informática en la Universidad Empresarial Siglo XXI. Esta formación académica está fortaleciendo mis habilidades técnicas y brindándome un conocimiento más profundo en el área. Mi enfoque principal se encuentra en la construcción de soluciones escalables utilizando tecnologías modernas. Me especializo en el desarrollo frontend y backend, y tengo habilidades en la creación de interfaces atractivas y funcionales.
 
-En mi búsqueda de conocimiento en ciberseguridad, he recurrido a varias fuentes de aprendizaje. Plataformas como Hack The Box (HTB) o TryHackMe me brindan la oportunidad de enfrentar desafíos de piratería ética y mejorar mis habilidades técnicas en un entorno práctico y seguro. Además, he aprovechado cursos especializados en ciberseguridad para profundizar en conceptos y técnicas clave.
-
-No puedo dejar de mencionar la gran cantidad de recursos disponibles en YouTube y la extensa documentación en línea que utilizo para ampliar mi comprensión y mantenerme al día con las últimas tendencias y técnicas en ciberseguridad.
+Mi objetivo es seguir creciendo profesionalmente como Full Stack Developer y contribuir al éxito de proyectos desafiantes.
 
 A través de mi blog, pretendo compartir mi experiencia, conocimiento y perspectivas sobre el desarrollo de Full Stack, así como todo lo que aprendo sobre ciberseguridad. Desde consejos y trucos prácticos hasta análisis en profundidad de técnicas y herramientas de seguridad, estaré encantado de proporcionar contenido valioso y relevante para aquellos que también estén interesados en este apasionante campo.
 
